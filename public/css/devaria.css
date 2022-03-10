@@ -1,8 +1,19 @@
 /*Estilos padrão do Site */
 
+.title{
+    padding: 0 20px;
+    font-size: 1.75em;
+    text-transform: uppercase;
+}
+
 body{
     background-color: #1c0c3f;
     font-family: sans-serif;
     color: #fff;
     margin: 0;
 }
+
+h1.title{
+    margin: 40px auto 20px;
+}
+
