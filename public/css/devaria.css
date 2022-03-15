@@ -17,3 +17,16 @@ h1.title{
     margin: 40px auto 20px;
 }
 
+.text-center {
+    text-align: center;
+}
+
+.text-justify {
+    text-align: justify;
+}   
+
+@media screen and (min-width: 992px) {
+    .width-50pct-desktop {
+        width: 50% !important; 
+    }
+}
